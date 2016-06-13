@@ -1,4 +1,5 @@
-/*
+/
+
 Theme Name: CloVR
 Theme URI: http://clovr.igs.umaryland.edu/
 Description: Custom theme based on WP's Twenty Ten theme and design by Mark Mazaitis.
@@ -1692,6 +1693,9 @@ code {
 	#main {
 		display: inline;
 	}
+    .spacer {
+        margin-bottom: 30px;
+    }
 	.home .sticky {
 		border: none;
 	}
