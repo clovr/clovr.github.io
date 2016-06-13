@@ -1,5 +1,4 @@
-/
-
+/*
 Theme Name: CloVR
 Theme URI: http://clovr.igs.umaryland.edu/
 Description: Custom theme based on WP's Twenty Ten theme and design by Mark Mazaitis.
@@ -36,7 +35,7 @@ a img { border: none; }
 
 
 body {
-	background: #fff url(../images/header-bg.jpg) repeat-x;
+	background: #fff url(images/header-bg.jpg) repeat-x;
 	color: #333;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -257,13 +256,13 @@ body.archive div.post {
 .entry-content table tr td.yes {
 	color: green;
 	font-weight: bold;
-	background-image: url(../images/tick.png);
+	background-image: url(images/tick.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 .entry-content table tr td.no {
-	background-image: url(../images/cross.png);
+	background-image: url(images/cross.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	color: #666;
@@ -338,7 +337,7 @@ body.page-id-8 .entry-content ul {
 
 ul li.search{	
 padding:0px 0px 0px 70px;
-background:url(../images/CloVR_search.jpg) no-repeat;
+background:url(images/CloVR_search.jpg) no-repeat;
 list-style: none;	
 diaply:block;
 height:60px;
@@ -350,7 +349,7 @@ padding:5px 0px 0px 0px;
 
 ul li.microbe{
 padding:0px 0px 0px 70px;	
-background:url(../images/CloVR_microbe.jpg) no-repeat;
+background:url(images/CloVR_microbe.jpg) no-repeat;
 list-style: none;	
 diaply:block;
 height:60px;
@@ -363,7 +362,7 @@ padding:5px 0px 0px 0px;
 
 ul li.sequence{
 padding:0px 0px 0px 70px;	
-background:url(../images/CloVR_16s.jpg) no-repeat;
+background:url(images/CloVR_16s.jpg) no-repeat;
 list-style: none;	
 diaply:block;
 height:60px;
@@ -375,7 +374,7 @@ padding:5px 0px 0px 0px;
 
 ul li.meta{
 padding:0px 0px 0px 70px;	
-background:url(../images/CloVR_meta.jpg) no-repeat;
+background:url(images/CloVR_meta.jpg) no-repeat;
 list-style: none;	
 diaply:block;
 height:60px;
@@ -386,7 +385,7 @@ padding:5px 0px 0px 0px;
 
 ul li.comparative{
 padding:0px 0px 0px 70px;	
-background:url(../images/clovr_comparative.png) no-repeat;
+background:url(images/clovr_comparative.png) no-repeat;
 list-style: none;	
 diaply:block;
 height:60px;
@@ -448,7 +447,7 @@ img#wpstats {
 
 
 #site-title a {
-	background: url(../images/clovr-logo-r2.jpg) no-repeat;
+	background: url(images/clovr-logo-r2.jpg) no-repeat;
 	display: block;
 	xxxxmargin-top: 26px;
 	height: 109px;
@@ -475,7 +474,7 @@ img#wpstats {
 }
 
 #access ul#menu-main-nav li a {
-	background: url(../images/nav.jpg) no-repeat;
+	background: url(images/nav.jpg) no-repeat;
 	color: #ddd;
 	display: block;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
@@ -494,7 +493,7 @@ img#wpstats {
 #access ul#menu-main-nav li.current_page_item a,
 #access ul#menu-main-nav li.current-page-ancestor a {
 	color: #fff;
-	background-image: url(../images/nav-active.jpg);
+	background-image: url(images/nav-active.jpg);
 }
 
 .footer-nav ul li {
@@ -526,13 +525,13 @@ img#wpstats {
 }
 
 #main .widget-area ul ul li {
-	background: url(../images/bullet.jpg) 3px 2px no-repeat;
+	background: url(images/bullet.jpg) 3px 2px no-repeat;
 	margin: 10px 0;
 	padding: 0 0 0 25px;
 }
 
 #main .widget-area ul p {
-	background: url(../images/bullet.jpg) 3px 2px no-repeat;
+	background: url(images/bullet.jpg) 3px 2px no-repeat;
 	margin: 10px 0;
 	padding: 0 0 0 25px;
 }
@@ -569,9 +568,9 @@ ol.thirds li {
 	width: 112px;
 }
 
-ol.intro-steps li.icon-one		{ background: url(../images/icons/Crystal_Clear_app_ark.png) left top no-repeat; }
-ol.intro-steps li.icon-two		{ background: url(../images/icons/Crystal_Clear_app_ksysguard.png) left 5px no-repeat; padding-left: 64px; width: 118px; }
-ol.intro-steps li.icon-three	{ background: url(../images/icons/Crystal_Clear_action_db_add.png) left top no-repeat; }
+ol.intro-steps li.icon-one		{ background: url(images/icons/Crystal_Clear_app_ark.png) left top no-repeat; }
+ol.intro-steps li.icon-two		{ background: url(images/icons/Crystal_Clear_app_ksysguard.png) left 5px no-repeat; padding-left: 64px; width: 118px; }
+ol.intro-steps li.icon-three	{ background: url(images/icons/Crystal_Clear_action_db_add.png) left top no-repeat; }
 
 
 
@@ -600,15 +599,15 @@ ol.intro-steps li.icon-three	{ background: url(../images/icons/Crystal_Clear_act
 }
 
 #clovr-choices #clovr-try h2 a {
-	background-image: url(../images/icons/clovr-try-128.png);
+	background-image: url(images/icons/clovr-try-128.png);
 }
 
 #clovr-choices #clovr-get h2 a {
-	background-image: url(../images/icons/clovr-get-128.png);
+	background-image: url(images/icons/clovr-get-128.png);
 }
 
 #clovr-choices #clovr-about h2 a {
-	background-image: url(../images/icons/clovr-about3-128.png);
+	background-image: url(images/icons/clovr-about3-128.png);
 }
 
 .cchoice h2 a {
@@ -1223,7 +1222,7 @@ body.page .edit-link {
 #content .gallery br+br {
 	display: none;
 }
-#content .attachment img { /* single attachment ../images should be centered 
+#content .attachment img { /* single attachment images should be centered 
 	display: block;
 	margin: 0 auto;
 }
@@ -1571,7 +1570,7 @@ h3#reply-title {
 	position: relative;
 }
 #site-generator a {
-	background: url(../images/wordpress.png) center left no-repeat;
+	background: url(images/wordpress.png) center left no-repeat;
 	color: #666;
 	display: inline-block;
 	line-height: 16px;
@@ -1693,9 +1692,6 @@ code {
 	#main {
 		display: inline;
 	}
-    .spacer {
-        margin-bottom: 30px;
-    }
 	.home .sticky {
 		border: none;
 	}
